@@ -8,6 +8,8 @@ The main purpose of my implementation was to show why the DASH protocol is usefu
 Presentation/Demo link:<br> https://drive.google.com/file/d/1ipDddzCQe6W0mF1nI57y9eTTUHyXOPg9/view?usp=sharing<br>
 I recommend reading this over first, as I gloss over a few details while explaining in the video.
 
+Github repository link:<br> https://github.com/ScottLBarrett/4300FinalProject
+
 ### DASH Protocol Overview
 The DASH protocol begins with the client requesting a manifest file from the server hosting the videos. The manifest file will include links to the same video at multiple bitrates.<br>
 Based on the client's current network conditions, they request chunks of multiple seconds of video from the proper bitrate chosen from the manifest file.<br>

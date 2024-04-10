@@ -5,7 +5,7 @@ I chose my project to be an implementation of the DASH Protocol discussed in the
 I chose this because I do a lot of work with videos and I've used many services that use the DASH Protocol.<br>
 The main purpose of my implementation was to show why the DASH protocol is useful by testing a client with and without dynamic bitrate selection under a variety of network conditions.<br>
 
-Presentation/Demo link:<br> https://drive.google.com/file/d/1ipDddzCQe6W0mF1nI57y9eTTUHyXOPg9/view?usp=sharing<br>
+Presentation/Demo link:<br> https://drive.google.com/file/d/1ipDddzCQe6W0mF1nI57y9eTTUHyXOPg9/view?usp=drive_link<br>
 I recommend reading this over first, as I gloss over a few details while explaining in the video.
 
 Github repository link:<br> https://github.com/ScottLBarrett/4300FinalProject
